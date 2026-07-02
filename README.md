@@ -154,11 +154,5 @@ Through this project, I gained practical experience in:
 
 **Shashank Singh**
 
----
-
-### Dataset Access
-
 Some CSV files may be too large for GitHub preview.
-
-**Google Drive:**
-https://drive.google.com/drive/folders/15nP7s8t1VzsGnuO8La9IY-yZfaJJwYO9?usp=sharing
+drive:
